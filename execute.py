@@ -2,7 +2,6 @@
 """
 @author  wangzhaoxi
 @date  20190521
-@enterprise GDPI
 @待改进   缩放后再旋转，保证图片不超出边框
 """
 import cv2
